@@ -6,7 +6,7 @@ This website is a nostalgic trip back to the 2000s, showcasing the activities an
 
 ## About the Club
 
-The High School Investing Club was founded in the early 2000s with the goal of educating students about the fundamentals of investing and financial literacy. Our club members participated in various activities, including stock market simulations, guest speaker events, and investment research projects.
+The MN Connects was founded in the early 2000s with the goal of educating students about the fundamentals of investing and financial literacy. Our club members participated in various activities, including stock market simulations, guest speaker events, and investment research projects.
 
 ## Features
 
